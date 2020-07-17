@@ -1,1 +1,1 @@
-Esta es la historia de Thomas Gualdi, un joven tecnologo argentino. 
+Hola soy Thomas Gualdi, de 22 años y este es mi primer commit 
